@@ -4,6 +4,7 @@ function App() {
 
   return (
     <>
+      <h1>hello</h1>
       <div style={{ width: '100%', height: '600px', position: 'relative' }}>
         <Lightning
           hue={220}
